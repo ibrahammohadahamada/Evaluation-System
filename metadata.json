@@ -1,0 +1,6 @@
+{
+  "name": "نظام تقييم حماية البيانات والخصوصية | Privacy & Data Compliance",
+  "description": "نظام تقييم ومراجعة لوائح حماية البيانات والخصوصية وفق معايير NIST SP 800-53 Rev 5 مع إمكانية فحص المواقع الإلكترونية، تحليل سياسات الشركات، وإصدار تقارير PDF متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
